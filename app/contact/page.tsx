@@ -41,7 +41,7 @@ export default function Contact() {
 
         <p>
           Have a question, suggestion or issue?
-          Send us a message and we'll get back to you.
+          Send us a message and we&apos;ll get back to you.
         </p>
 
       </section>
@@ -60,12 +60,12 @@ export default function Contact() {
             </div>
 
             <h2>
-              We're here to help.
+              We&apos;re here to help.
             </h2>
 
             <p>
               Whether you have feedback about NotifyHub or
-              need help with a campus announcement, we'd love
+              need help with a campus announcement, we&apos;d love
               to hear from you.
             </p>
 
